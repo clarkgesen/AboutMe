@@ -1,0 +1,19 @@
+h1 {
+    color: blue;
+}
+img {
+    border: 10px solid;
+    color: red;
+    border-image: url(border.png) 50 round;
+  }
+p {
+    color: blue;
+}
+h2 {
+    color: blue;
+}
+ul {
+    color: blue;
+}
+
+  
